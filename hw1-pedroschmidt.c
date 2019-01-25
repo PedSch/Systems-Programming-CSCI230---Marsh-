@@ -1,7 +1,6 @@
 
 /*
     Pedro Schmidt
-    1185647
     HW-1
     CSCI230
 
